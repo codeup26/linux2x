@@ -12,4 +12,3 @@ echo done
 elif [ $in == $c ]
 echo boot
 echo help
-done
